@@ -12,4 +12,4 @@ Telegram bot that alerts large amount transactions on Binance Smart Chain.
 
 ## Credit
 
-Inspired from https://twitter.com/whale_alert
+Inspired by https://twitter.com/whale_alert

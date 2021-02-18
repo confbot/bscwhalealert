@@ -100,7 +100,7 @@ function checkBSC() {
   var since = new Date(now - 15 * 60 * 1000).toISOString(); // 15min
 
   MONITOR_TOKENS.forEach((entry, i) => {
-    Utilities.sleep(3000 * i);
+    Utilities.sleep(3000);
     let options = { 
       'method': 'post',
       'contentType': 'application/json',

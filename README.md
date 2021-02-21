@@ -1,7 +1,7 @@
 # bscwhalealert
 Whale Alert on BSC
 
-🤖 The bot is live in Telegram https://t.me/bscwhalealert , go see the 🐳
+🤖 The bot is live in Telegram https://t.me/bscwhalealert , [Join](https://t.me/bscwhalealert) to watch the 🐳 on Binance Smart Chain.
 
 ![Imgur](https://i.imgur.com/dnuh4TC.png)
 

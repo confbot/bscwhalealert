@@ -10,9 +10,10 @@ Telegram bot that alerts large amount transactions on Binance Smart Chain.
 ## Features
 
 - 🐳 Watch Whale transfer with over 1,000,000 USD with plenty tokens (pegged token or native token)
-- ⏳ Show transactions in time sequence, so you can intuitively recognize the cross token transactions.
+- 🛢 Identify Binance Exchange to Binance Smart Chain related transactions
 - 👥 Tagging sender/receiver to human readable alias, such as turn the address to `Pancake` or `Binance Hot Wallet`
-- 😃 Emojis! Use intuitive emojis to identify transactions to different categories
+- ⏳ Show transactions in time sequence, so you can intuitively recognize the cross token transactions.
+- 😃 Emojis! Use intuitive emojis to identify transactions of ⬇️ Venus deposit, 🚜 auto farming and more.
 
 ![Imgur](https://i.imgur.com/sEspUWL.png)
 

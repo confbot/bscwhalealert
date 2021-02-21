@@ -1,9 +1,19 @@
 # bscwhalealert
 Whale Alert on BSC
 
+🤖 The bot is live in Telegram https://t.me/bscwhalealert , go see the 🐳
+
+![Imgur](https://i.imgur.com/dnuh4TC.png)
+
 Telegram bot that alerts large amount transactions on Binance Smart Chain.
 
-🤖 The bot in Telegram https://t.me/bscwhalealert
+## Features
+
+- 🐳 Watch Whale transfer with over 1,500,000 USD with plenty tokens (pegged token or native token)
+- 👥 Tagging sender/receiver to human readable alias, such as turn the address to `Pancake` or `Binance Hot Wallet`
+- Emojis! Use intuitive emojis to identify transactions to different categories
+
+![Imgur](https://i.imgur.com/sEspUWL.png)
 
 ## Contribute
 

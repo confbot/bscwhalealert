@@ -1,11 +1,10 @@
-# bscwhalealert
-Whale Alert on BSC
-
-🤖 The bot is live in Telegram https://t.me/bscwhalealert , [Join](https://t.me/bscwhalealert) to watch the 🐳 on Binance Smart Chain.
-
-![Imgur](https://i.imgur.com/dnuh4TC.png)
-
+# BSC Whale Alert
 Telegram bot that alerts large amount transactions on Binance Smart Chain.
+
+🐳 The bot is serving in Telegram https://t.me/bscwhalealert , [Join](https://t.me/bscwhalealert) to watch the 🐳 on Binance Smart Chain.
+
+[![BSC Whale Alert](http://img.youtube.com/vi/cecdm2eiQHE/0.jpg)](http://www.youtube.com/watch?v=cecdm2eiQHE "BSC Whale Alert")
+
 
 ## Features
 
@@ -14,6 +13,10 @@ Telegram bot that alerts large amount transactions on Binance Smart Chain.
 - 👥 Tagging sender/receiver to human readable alias, such as turn the address to `Pancake` or `Binance Hot Wallet`
 - ⏳ Show transactions in time sequence, so you can intuitively recognize the cross token transactions.
 - 😃 Emojis! Use intuitive emojis to identify transactions of ⬇️ Venus deposit, 🚜 auto farming and more.
+
+## Screenshots
+
+![Imgur](https://i.imgur.com/dnuh4TC.png)
 
 ![Imgur](https://i.imgur.com/sEspUWL.png)
 

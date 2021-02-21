@@ -4,6 +4,7 @@ Telegram bot that alerts large amount transactions on Binance Smart Chain.
 🐳 The bot is serving in Telegram https://t.me/bscwhalealert , [Join](https://t.me/bscwhalealert) to watch the 🐳 on Binance Smart Chain.
 
 🎥 Click below to watch the project introduction. 
+
 [![BSC Whale Alert](http://img.youtube.com/vi/cecdm2eiQHE/0.jpg)](http://www.youtube.com/watch?v=cecdm2eiQHE "BSC Whale Alert")
 
 
